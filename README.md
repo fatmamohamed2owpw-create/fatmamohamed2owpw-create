@@ -36,9 +36,9 @@
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=fatmamohamed2owpw-create&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=fatmamohamed2owpw-create&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fatmamohamed2owpw-create&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=fatmamohamed2owpw-create&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -48,27 +48,7 @@
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=fatmamohamed2owpw-create&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=fatmamohamed2owpw-create&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15"/>
-
-</div>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=fatmamohamed2owpw-create&theme=tokyo-night"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=fatmamohamed2owpw-create&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -91,8 +71,6 @@
 ---
 
 <div align="center">
-
-![](https://komarev.com/ghpvc/?username=fatmamohamed2owpw-create&color=blueviolet&style=for-the-badge)
 
 ### ⭐ Thanks for visiting my profile!
 
