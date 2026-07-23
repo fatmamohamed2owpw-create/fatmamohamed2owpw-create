@@ -17,7 +17,6 @@
 - 💻 Full Stack Developer
 - 🌱 Currently learning **Next.js & Cloud**
 - ⚡ Passionate about building modern web applications
-- 📍 Egypt 🇪🇬
 - 📧 **fatmamohamed2owpw@gmail.com**
 
 ---
