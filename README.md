@@ -93,6 +93,16 @@
 
 ---
 
+## 👁️ Profile Visitors
+
+<div align="center">
+
+![Visitors Counter](https://komarev.com/ghpvc/?username=fatmamohamed2owpw-create&label=Profile%20Views&color=00F7FF&style=flat-square)
+
+</div>
+
+---
+
 ## 🌍 Connect With Me
 
 <div align="center">
@@ -110,8 +120,6 @@
 ---
 
 <div align="center">
-
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=fatmamohamed2owpw-create.fatmamohamed2owpw-create)
 
 ### ⭐ Thanks for visiting my profile!
 
